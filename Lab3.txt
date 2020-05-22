@@ -1,0 +1,12 @@
+1.Class yaradırıq və həmin klassda içərisində mənfi müsbət ədədlər olan integer tipindən array yazırıq.
+Metod yazırıq,həmin metod verilmiş arrayda müsbət,mənfi və 0-a bərabər olan ədədlərin sayını tapsın
+(Müsbətlərin sayı,Mənfilərin sayı,Sıfırların sayı).(Obyekt yaradib metodu cagirmaqla)
+
+2.Abstarkt klass yaradırıq içərisində  metod yazırıq.Başqa bir klassda abstrakt klassdan miras almaqla verilmiş ədədin 
+faktorialini hesablayırıq(4!(4 faktorial)=1*2*3*4). (Obyekt yaradib metodu cagirmaqla)
+
+3.İki return metodu olan klass yaradırıq.Metodun biri verilmiş aralığdakı ədədlərin cəmini tapır,ikincisi aralıqdakı ədədlərin sayını.
+2,4,6,...94. (Obyekt yaradib metodu cagirmaqla).
+
+4.Person klassı yaradırıq.İçərisində Name,Surname,BirthdayYear propertyləri olsun.(Konstraktora göndərilsin)
+BirthdayYear-ə görə müştərinin neçə yaşı olduğunu hesablayan metod yazın. (Obyekt yaradib metodu cagirmaqla).

@@ -1,0 +1,11 @@
+C:\Users\Code\Desktop\P116\3.Lab-22.05.2020-C#_Class,Object-ConsoleApp\ClassObjects\ClassObjects\bin\Debug\netcoreapp2.2\ClassObjects.deps.json
+C:\Users\Code\Desktop\P116\3.Lab-22.05.2020-C#_Class,Object-ConsoleApp\ClassObjects\ClassObjects\bin\Debug\netcoreapp2.2\ClassObjects.runtimeconfig.json
+C:\Users\Code\Desktop\P116\3.Lab-22.05.2020-C#_Class,Object-ConsoleApp\ClassObjects\ClassObjects\bin\Debug\netcoreapp2.2\ClassObjects.runtimeconfig.dev.json
+C:\Users\Code\Desktop\P116\3.Lab-22.05.2020-C#_Class,Object-ConsoleApp\ClassObjects\ClassObjects\bin\Debug\netcoreapp2.2\ClassObjects.dll
+C:\Users\Code\Desktop\P116\3.Lab-22.05.2020-C#_Class,Object-ConsoleApp\ClassObjects\ClassObjects\bin\Debug\netcoreapp2.2\ClassObjects.pdb
+C:\Users\Code\Desktop\P116\3.Lab-22.05.2020-C#_Class,Object-ConsoleApp\ClassObjects\ClassObjects\obj\Debug\netcoreapp2.2\ClassObjects.csprojAssemblyReference.cache
+C:\Users\Code\Desktop\P116\3.Lab-22.05.2020-C#_Class,Object-ConsoleApp\ClassObjects\ClassObjects\obj\Debug\netcoreapp2.2\ClassObjects.csproj.CoreCompileInputs.cache
+C:\Users\Code\Desktop\P116\3.Lab-22.05.2020-C#_Class,Object-ConsoleApp\ClassObjects\ClassObjects\obj\Debug\netcoreapp2.2\ClassObjects.AssemblyInfoInputs.cache
+C:\Users\Code\Desktop\P116\3.Lab-22.05.2020-C#_Class,Object-ConsoleApp\ClassObjects\ClassObjects\obj\Debug\netcoreapp2.2\ClassObjects.AssemblyInfo.cs
+C:\Users\Code\Desktop\P116\3.Lab-22.05.2020-C#_Class,Object-ConsoleApp\ClassObjects\ClassObjects\obj\Debug\netcoreapp2.2\ClassObjects.dll
+C:\Users\Code\Desktop\P116\3.Lab-22.05.2020-C#_Class,Object-ConsoleApp\ClassObjects\ClassObjects\obj\Debug\netcoreapp2.2\ClassObjects.pdb
